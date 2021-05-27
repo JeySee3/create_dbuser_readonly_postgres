@@ -6,8 +6,10 @@ Set value like './create_Read_Only_User.sh -u USER_NAME -p PASSWORD'
 
 #############ENV#################
 
-PasswordPG=password
-UserRootDB=postgres
-DATABASE=postgres
-SchemaName=public
-HOSTDB=localhost
+ + PasswordPG=password
+ + UserRootDB=postgres
+ + DATABASE=postgres
+ + SchemaName=public
+ + HOSTDB=localhost
+
+
