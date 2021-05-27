@@ -1,1 +1,1 @@
-# create_dbuser_readonly_postgres
+Set value like './create_Read_Only_User.sh -u USER_NAME -p PASSWORD'
