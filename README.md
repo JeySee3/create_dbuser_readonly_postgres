@@ -12,4 +12,6 @@ Set value like './create_Read_Only_User.sh -u USER_NAME -p PASSWORD'
  + SchemaName=public
  + HOSTDB=localhost
 
+# Create dbuser with rules(SELECT_INSERT_DELETE) for database postgres
 
+Set value like './create_SELECT_INSERT_DELETE_User.sh -u USER_NAME -p PASSWORD'
